@@ -1,4 +1,4 @@
-## Deploy with netlify:
+## Deploy com netlify:
 ```
 https://livegatsbyrocket.netlify.com/
 ```
@@ -14,7 +14,7 @@ https://livegatsbyrocket.netlify.com/
 
 Esse repositório contém o código desenvolvido durante a live do Bootcamp sobre Gatsby.
 
-## 🚀 Quick start
+## 🚀 Como rodar o projeto
 
 1.  **Faça um clone do repositório.**
 
