@@ -16,13 +16,13 @@ Esse repositório contém o código desenvolvido durante a live do Bootcamp sobr
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Faça um clone do repositório.**
 
     ```shell
     git clone https://github.com/willianpassarelli/live-de-gatsby
     ```
 
-1.  **Start developing.**
+1.  **Comece a desenvolver.**
 
     Navigate into your new site’s directory and start it up.
 
@@ -34,8 +34,7 @@ Esse repositório contém o código desenvolvido durante a live do Bootcamp sobr
 1.  **Abra o código fonte e comece a editar!**
 
     O site está rodando em http://localhost:8000!
-
-Obs: Você vai ver um link secundário: http://localhost:8000/___graphql. Essa ferramenta pode ser utilizada para fazer query de informações. Saiba mais em https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql.
+    Obs: Você vai ver um link secundário: http://localhost:8000/___graphql. Essa ferramenta pode ser utilizada para fazer query de informações. Saiba mais em https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql.
 
 ## 🧐 O que tem dentro?
 
