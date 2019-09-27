@@ -1,3 +1,7 @@
+## Deploy with netlify:
+```
+https://livegatsbyrocket.netlify.com/
+```
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
