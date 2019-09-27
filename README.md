@@ -9,7 +9,7 @@ https://livegatsbyrocket.netlify.com/
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Repositório da live de Gatsby
 </h1>
 
 Esse repositório contém o código desenvolvido durante a live do Bootcamp sobre Gatsby.
