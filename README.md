@@ -12,15 +12,11 @@ https://livegatsbyrocket.netlify.com/
   Gatsby's default starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+Esse repositório contém o código desenvolvido durante a live do Bootcamp sobre Gatsby.
 
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the default starter.
 
     ```shell
     git clone https://github.com/willianpassarelli/live-de-gatsby
@@ -35,17 +31,15 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     yarn start
     ```
 
-1.  **Open the source code and start editing!**
+1.  **Abra o código fonte e comece a editar!**
 
-    Your site is now running at `http://localhost:8000`!
+    O site está rodando em http://localhost:8000!
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+Obs: Você vai ver um link secundário: http://localhost:8000/___graphql. Essa ferramenta pode ser utilizada para fazer query de informações. Saiba mais em https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql.
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+## 🧐 O que tem dentro?
 
-## 🧐 What's inside?
-
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+Um pouco sobre os arquivos que tem dentro de um projeto Gatsby:
 
     .
     ├── node_modules
